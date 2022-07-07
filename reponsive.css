@@ -1,0 +1,62 @@
+
+#works{
+    flex-direction: column;
+}
+#aboutme{
+    flex-direction: column;
+}
+#book{
+    flex-direction: column;
+}
+#contact{
+    flex-direction: column;
+}
+.contact-img img{
+    display: none;
+}
+#bookimg {
+   display: none;
+}
+#form{
+    width: 80vw;
+}
+#aboutme #aboutmetext {
+    margin: 0;
+    padding: 25px;
+}
+#aboutme #aboutmeimg img {
+    margin: 8px 26px 51px 7px;
+}
+ #works #insta img {
+    height: 5rem;
+    margin: 3rem 0px 5rem 5rem;
+}
+#works img {
+    height: 27.5rem;
+    margin: 4.1rem 0px 0rem 0rem;
+}
+#worklinks {
+    margin: 4rem 0rem 0rem 2rem;
+}
+#book {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    position: relative;
+    top: 422px;
+}
+footer{
+    position: relative;
+    bottom:0px;
+}
+#contact {
+    
+   
+    position: relative;
+    top: 0;
+    margin: 448px 0px 65px 0px ;
+}
+.quote {
+    display: none;
+}
