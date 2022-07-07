@@ -1,4 +1,1 @@
-# hotel-landing-page-using-bootstrap
-this page has same content as the hotel website page but made with bootstrap
-# Hosted Project
-https://nzkfalconet.github.io/hotel-landing-page-using-bootstrap/
+This is a landing page which a photography can use as a design their own website so that they can take bookings of photo shoots through that website.
